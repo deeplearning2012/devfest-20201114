@@ -12,3 +12,4 @@ https://github.com/JuliaPoo/MultiHand-Tracking
 NLP
 https://www.bilibili.com/video/BV1FV41117Uz/
 
+https://github.com/tensorflow/examples/tree/master/lite/examples/gesture_classification/web CV 终极任务 ~ 可以试一试用 js 现场训练一个手势识别哟。
